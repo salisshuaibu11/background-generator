@@ -26,5 +26,3 @@ color2.addEventListener("input", setGradient);
 
 
 
-
-
